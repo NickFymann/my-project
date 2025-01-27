@@ -1,3 +1,2 @@
 Feature text file
-Second line
-Third line
+
